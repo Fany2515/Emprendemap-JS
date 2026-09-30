@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Emprede Map - Beneficios para emprendedores</title>
+  <title>EmpredeMap - Beneficios para emprendedores</title>
   <!-- Bootstrap CSS -->
   <link
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
@@ -20,7 +20,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light border-bottom">
     <div class="container">
-      <a class="navbar-brand" href="#">Emprede Map</a>
+      <a class="navbar-brand" href="#">EmpredeMap</a>
       <button
         class="navbar-toggler"
         type="button"
