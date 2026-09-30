@@ -62,7 +62,7 @@
       <div class="col-md-4">
         <div class="card">
           <i class="fas fa-map-marker-alt icon"></i>
-          <h4>Ubicaciones ideales</h4>
+          <h4>Ubicaciones ideales y servicios</h4>
           <p>Encuentra locales cerca de tu comunidad para crecer con apoyo local.</p>
         </div>
       </div>
